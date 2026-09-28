@@ -1,0 +1,6 @@
+@PhanCongViec_HostAddress = http://localhost:5152
+
+GET {{PhanCongViec_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
