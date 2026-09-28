@@ -1,5 +1,5 @@
 
-PART 1:
+PART 1: https://github.com/Nitnhung/TestApi
 
 PHẦN CHƯA LÀM ĐƯỢC TRONG PART 1:
 - tìm được ác item cần sử dụng nhưng vẫn chưa trả về đúng dât cần thiết
@@ -26,7 +26,8 @@ TỰ ĐÁNH GIÁ:
 
 
 
-PART 2: tự đánh giá
+PART 2: https://github.com/Nitnhung/Test_Part2 
+tự đánh giá
 - đã biết tách cấu trúc rõ ràng hơn
 - sử dụng chung các phần quy chuẩn kết quả đầu ra respone cho cả trường hợp đúng và sai
 - chưa nắm chắc phần model binding
